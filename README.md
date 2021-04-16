@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Wille</h1>
 <h3 align="center">A Computer Science student at the University of Pretoria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmanwillz&label=Profile%20views&color=0e75b6&style=flat" alt="jmanwillz" /> </p>
-
 - 🔭 I’m currently working on **COS301 CrowdBook**
 
 - 🌱 I’m currently learning **Compiler Design**
