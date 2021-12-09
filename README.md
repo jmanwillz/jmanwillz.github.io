@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jason Wille</h1>
 <h3 align="center">A Computer Science student at the University of Pretoria</h3>
 
-- 🔭 I’m currently working on **COS301 CrowdBook**
+<!-- - 🔭 I’m currently working on **COS301 CrowdBook** -->
 
-- 🌱 I’m currently learning **Compiler Design**
+- 🌱 I’m currently learning **NLP**
 
-- 📫 How to reach me **u16029390@tuks.co.za**
+- 📫 How to reach me **jason.wille.97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
