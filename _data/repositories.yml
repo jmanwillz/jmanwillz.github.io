@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-- jmanwillz/LLMs-and-African-Language
-- jmanwillz/Reconnaissance-Blind-Chess-Bot
-- COS301-SE-2021/AR-VR-GAN
+  - jmanwillz/LLMs-and-African-Language
+  - jmanwillz/Reconnaissance-Blind-Chess-Bot
+  - COS301-SE-2021/AR-VR-GAN
