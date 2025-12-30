@@ -165,7 +165,7 @@
   "references": [],
   "projects": [
     {
-      "name": "",
+      "name": "Guide to Agentic AI",
       "summary": "This project-based tutorial provides a deep understanding of how powerful AI tools work by guiding you through the creation of an agentic loop powered by tool calling.",
       "highlights": [],
       "startDate": "2025-12-30",
