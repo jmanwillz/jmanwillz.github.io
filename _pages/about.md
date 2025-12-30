@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jason_wille_color.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I’m Jason Wille, a software engineer with a strong curiosity for how intelligent systems are built and how data can be transformed into meaningful insight. I enjoy working across the full problem-solving spectrum—from designing clean, maintainable code to diving deep into algorithms, data structures, and machine learning concepts. For me, software engineering isn’t just about writing code that works; it’s about building solutions that are efficient, thoughtful, and scalable.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m particularly interested in machine learning and data-driven systems, and I’m continuously exploring new techniques, tools, and frameworks to sharpen my understanding of this space. Whether it’s experimenting with models, refining training pipelines, or debugging a stubborn issue that refuses to cooperate, I thrive on challenges that push me to think critically and learn something new. I enjoy the process of breaking complex problems down into manageable pieces and iterating until everything clicks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of hands-on coding, I value learning and collaboration. I like engaging with other developers, exchanging ideas, and staying up to date with emerging technologies and best practices in the software engineering world. This website is a place to share my projects, document what I’m learning, and reflect on my journey as I grow as an engineer. Feel free to explore my work, check out my GitHub, and reach out if you’d like to connect or collaborate.
