@@ -165,6 +165,22 @@
   "references": [],
   "projects": [
     {
+      "name": "",
+      "summary": "This project-based tutorial provides a deep understanding of how powerful AI tools work by guiding you through the creation of an agentic loop powered by tool calling.",
+      "highlights": [],
+      "startDate": "2025-12-30",
+      "endDate": "2025-12-22",
+      "url": "https://github.com/jmanwillz/Guide-to-Agentic-AI"
+    },
+    {
+      "name": "RMCP Project",
+      "summary": "This repository serves as the codebase for the project titled 'Learning Discrete Representations From Mass Spectrometry Imaging Using VQ-VAE'.",
+      "highlights": [],
+      "startDate": "2025-11-01",
+      "endDate": "2025-03-01",
+      "url": "https://github.com/jmanwillz/RMCP-Project"
+    },
+    {
       "name": "LLMs and African Language",
       "summary": "Fine-tuned XLM-RoBERTa on a Swahili dataset for masked language modeling and news classification tasks. Achieved a significant reduction in perplexity during pretraining, improving the model’s understanding of Swahili. Demonstrated higher accuracy and overall performance on Swahili news classification compared to the base model, using cutting-edge transformer architectures.",
       "highlights": [],
