@@ -113,38 +113,33 @@
   "certificates": [
     {
       "name": "CS50's Introduction to Artificial Intelligence with Python",
-      "date": "2021-02-12",
       "issuer": "edX",
-      "url": "https://courses.edx.org/certificates/6dd945a57c11438883feb18786a134c8",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://courses.edx.org/certificates/6dd945a57c11438883feb18786a134c8"
     },
     {
       "name": "Machine Learning Specialization",
-      "date": "2023-03-03",
       "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/8LHELKLDP6ER",
-      "icon": "fa-solid fa-tag"
+      "url": "https://www.coursera.org/account/accomplishments/specialization/8LHELKLDP6ER"
     },
     {
       "name": "Associate Cloud Engineer Certification",
-      "date": "2024-01-25",
       "issuer": "Google",
-      "url": "https://www.credly.com/badges/636b6b87-091f-4f49-ae37-f8a1bffab443/linked_in_profile",
-      "icon": "fa-solid fa-envelope"
+      "url": "https://www.credly.com/badges/636b6b87-091f-4f49-ae37-f8a1bffab443/linked_in_profile"
     },
     {
       "name": "Neural Networks and Deep Learning",
-      "date": "2024-08-02",
       "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/records/E4XYT8P0DZNE",
-      "icon": "fa-solid fa-hashtag"
+      "url": "https://www.coursera.org/account/accomplishments/records/E4XYT8P0DZNE"
     },
     {
       "name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
-      "date": "2025-02-01",
       "issuer": "DeepLearning.AI",
-      "url": "https://www.coursera.org/account/accomplishments/verify/OYWFCNRESOX5",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://www.coursera.org/account/accomplishments/verify/OYWFCNRESOX5"
+    },
+    {
+      "name": "Structuring Machine Learning Projects",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/7OVZLBH2GUGT"
     }
   ],
   "publications": [],
@@ -153,11 +148,6 @@
     {
       "language": "English",
       "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Afrikaans",
-      "fluency": "Limited working proficiency",
       "icon": ""
     }
   ],
