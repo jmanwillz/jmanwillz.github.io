@@ -140,6 +140,11 @@
       "name": "Structuring Machine Learning Projects",
       "issuer": "DeepLearning.AI",
       "url": "https://www.coursera.org/account/accomplishments/verify/7OVZLBH2GUGT"
+    },
+    {
+      "name": "Learn React",
+      "issuer": "Scrimba",
+      "url": "https://scrimba.com/u436a6e6:certs;cert24zAwPPowUwigNGxCWDUQja48gh6N5VBNb4d6"
     }
   ],
   "publications": [],
@@ -164,7 +169,7 @@
     },
     {
       "name": "RMCP Project",
-      "summary": "This repository serves as the codebase for the project titled 'Learning Discrete Representations From Mass Spectrometry Imaging Using VQ-VAE'.",
+      "summary": "This repository serves as the codebase for the project titled 'Representation Learning from Mass Spectrometry Imaging using VAEs'.",
       "highlights": [],
       "startDate": "2025-03-01",
       "endDate": "2025-11-01",
