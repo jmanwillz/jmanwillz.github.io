@@ -6,29 +6,32 @@
     "email": "jason.wille.97@gmail.com",
     "phone": "+27 71 675 1004",
     "url": "https://jmanwillz.github.io",
-    "summary": "I am a software engineer eager to transition into a machine learning engineering role. I’m passionate about continuously learning new concepts and putting them into practice. Known for being a collaborative team player, I thrive in environments where I can interact with like-minded colleagues and grow together.",
+    "summary": "I’m passionate about continuously learning new concepts and putting them into practice. Known for being a collaborative team player, I thrive in environments where I can interact with like-minded colleagues and grow together.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "1746 Monterey Drive, Dainfern",
+      "postalCode": "2055",
+      "city": "Johannesburg",
+      "countryCode": "RSA",
+      "region": "Gauteng"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
+    {
+      "name": "Waggel",
+      "position": "Machine Learning Engineer",
+      "url": "https://www.waggel.co.uk/",
+      "startDate": "2026-04-07",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
     {
       "name": "Advance.io",
       "position": "Software Engineer II",
       "url": "https://www.epiuselabs.com/advance-io",
       "startDate": "2025-03-01",
-      "endDate": "",
+      "endDate": "2026-03-31",
       "summary": "",
       "highlights": []
     },
