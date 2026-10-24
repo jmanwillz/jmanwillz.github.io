@@ -153,6 +153,11 @@
       "name": "AWS Certified Machine Learning Engineer – Associate",
       "issuer": "Amazon Web Services (AWS)",
       "url": "https://www.credly.com/badges/45ffe9d6-8fd8-43b5-aa43-cc7cafb35b72/public_url"
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/7P1X0YPHIKD4"
     }
   ],
   "publications": [],
